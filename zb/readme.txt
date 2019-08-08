@@ -1,2 +1,3 @@
 git is a very good software.
-git is a distributed version control system.
+git is a pretty distributed version control system.
+
