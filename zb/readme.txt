@@ -1,8 +1,4 @@
 git is a very good software.
-git is a pretty distributed version control system.
-<<<<<<< HEAD
+git is a pretty distributed version control system
 test branch quick and simple
-=======
-test branch  quick and simple
->>>>>>> feature_zhb
 git is not hard to learn. oww
